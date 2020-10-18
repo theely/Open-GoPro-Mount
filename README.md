@@ -11,11 +11,11 @@ If your specific camera model or frame is not yet supported, please [file a requ
 * Designed to be extremely duravble, ultra light and easy to 3D print.
 * Modular approach to allow reusability of the component and easy portability to different quad frame designs.
 
-![d69d4236-b94e-467a-91e4-2ae7400f63bc](https://user-images.githubusercontent.com/2025999/96351786-047c0780-10be-11eb-84a7-6743fbe14ab3.PNG)
+<img src="https://user-images.githubusercontent.com/2025999/96351786-047c0780-10be-11eb-84a7-6743fbe14ab3.PNG" width="400">
 
-![Apex_GoPro_Mount_22 5°_2020-Oct-17_05-20-30PM-000_CustomizedView21635187927 (3)](https://user-images.githubusercontent.com/2025999/96350563-b6173a80-10b6-11eb-8d7b-215e74876cb8.jpg)
+<img src="https://user-images.githubusercontent.com/2025999/96350563-b6173a80-10b6-11eb-8d7b-215e74876cb8.jpg" width="400">
 
-![Apex_GoPro_Mount_22 5°_2020-Oct-17_05-20-30PM-000_CustomizedView21635187927](https://user-images.githubusercontent.com/2025999/96349479-44d48900-10b0-11eb-8346-5a620a46a129.jpg)
+<img src="https://user-images.githubusercontent.com/2025999/96349479-44d48900-10b0-11eb-8346-5a620a46a129.jpg" width="400">
 
 
 
@@ -26,6 +26,7 @@ The Open-GoPro-Mount is made of 4 components:
 * Quad Frame Mount
 * Lens protection
 * GoPro Screen protection
+
 
 ### Prorting the Open-GoPro-Mount to a new Quad Frame
 To port the Open-GoPro-Mount to a new quad frame it's sufficent to design a new Quad Frame Mount.
@@ -47,15 +48,12 @@ Its important to respect the distance between the two red pieces:
 ### Adapting the Open-GoPro-Mount for a new Camera
 
 
+### Fusion360 Project
 
-https://gmail784198.autodesk360.com/g/projects/20201018344143181
+Alternative you can access the source design directly from the shared Fusion360 [project](https://gmail784198.autodesk360.com/g/projects/20201018344143181)
 
 
-The modular design of the Open-GoPro-Mount should allow easy portability and adaptations.
-* To port the GoPro mount to a new frame it should be sufficent to modify or design a new Mount (ref. Apex Mount (22.5°).step)
-* To support additional cameras modify an existing Mount (ref. GoPro Hero 5/6/7 Mount.step) or design a new one.  
-
-#### Step Files
+### Step Files
 * Universal Screen Protection.step
 ##### Cameras
 * GoPro Hero 5/6/7 Mount.step
