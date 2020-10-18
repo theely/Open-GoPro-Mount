@@ -1,4 +1,4 @@
-# STL
+# STL Files
 
 ## How to 3D Print
 * The main body is designed to be printed with TPU A95 or A98.
