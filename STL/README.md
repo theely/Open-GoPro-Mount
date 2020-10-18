@@ -1,9 +1,14 @@
 # STL Files
 
 ## How to 3D Print
-* The main body is designed to be printed with TPU A95 or A98.
-* The screen protector is best printed with rigid materials such as PLA, PETG or PC.
-
+### Filament
+* The main body is designed to be printed with TPU (shore A95 or A98).
+* The screen protector is best printed with rigid materials such as PLA, Nylon or hard TPU (shore D58)
+### Slicer Settings
+* Infil Density: 30%
+* Wall Lines: 4
+* Top and Bottom Layers: 4
+* Support: Yes
 
 ## Parts
 
