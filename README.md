@@ -2,8 +2,8 @@
 
 A modular open source GoPro mount for FPV Drones.
 
-## [STL Files](./STL)
-STL files are ready to print GoPro Mounts, all available combinations of camera holders and frames mounts are available in the [STL folder](./STL)
+## STL Files
+[STL files](./STL) are ready to print GoPro Mounts, all available combinations of camera holders and frames mounts are available in the [STL folder](./STL)
 If your specific camera model or frame is not yet supported, please [file a request](https://github.com/theely/Open-GoPro-Mount/issues).
 
 
