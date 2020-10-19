@@ -23,6 +23,11 @@ If your specific camera model or frame is not yet supported, please [file a requ
 <img width="400" src="https://user-images.githubusercontent.com/2025999/96481348-b2f98700-123b-11eb-91b8-be7c9513a711.png">
 Note: This part can't be printed without support or the overhang will not print properly.
 
+#### Printed Model Reference
+<img width="400" src="https://user-images.githubusercontent.com/2025999/96494169-446df680-1246-11eb-83ca-87b56119bcc6.jpg">
+
+
+
 ## Design Principle
 * Designed to be extremely duravble, ultra light and easy to 3D print.
 * Modular approach to allow reusability of the component and easy portability to different quad frame designs.
