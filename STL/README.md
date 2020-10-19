@@ -10,7 +10,7 @@
 * Top and Bottom Layers: 4
 * Support: Yes
 
-### Slicer Optimal parts orientation
+### Slicer Optimal Parts Orientation
 
 <img width="400" src="https://user-images.githubusercontent.com/2025999/96481367-bab92b80-123b-11eb-9efe-d3d14730b8a8.png">
 
