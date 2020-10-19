@@ -53,7 +53,7 @@ TBD
 ### Fusion360 Project
 
 You can access the source design directly from the shared Fusion360
-* [Fusion360 project](https://gmail784198.autodesk360.com/g/projects/20201018344143181)
+* [Fusion360 project](https://gmail784198.autodesk360.com/g/projects/20201018344143181/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZjc2MFRFNlhSaW1rVDFkaDE2NXdIdw)
 
 ### Step Files
 Or you can import the shared step files and edit them in your favorite CAD program.
