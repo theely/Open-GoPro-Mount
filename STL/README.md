@@ -10,6 +10,13 @@
 * Top and Bottom Layers: 4
 * Support: Yes
 
+### Slicer Optimal parts orientation
+
+<img width="400" src="https://user-images.githubusercontent.com/2025999/96481367-bab92b80-123b-11eb-9efe-d3d14730b8a8.png">
+
+<img width="400" src="https://user-images.githubusercontent.com/2025999/96481348-b2f98700-123b-11eb-91b8-be7c9513a711.png">
+Note: This part can't be printed without support or the overhang will not print properly.
+
 ## Parts
 
 ### Universal
