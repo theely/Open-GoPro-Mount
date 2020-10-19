@@ -46,14 +46,18 @@ Its important to respect the distance between the two red pieces:
 <img src="https://user-images.githubusercontent.com/2025999/96380984-17f7a300-1190-11eb-8bec-2b530e6b0df1.png" width="400">
 
 ### Adapting the Open-GoPro-Mount for a new Camera
+TBD
 
+## Source File (Designs)
 
 ### Fusion360 Project
 
-Alternative you can access the source design directly from the shared Fusion360 [project](https://gmail784198.autodesk360.com/g/projects/20201018344143181)
-
+You can access the source design directly from the shared Fusion360
+* [Fusion360 project](https://gmail784198.autodesk360.com/g/projects/20201018344143181)
 
 ### Step Files
+Or you can import the shared step files and edit them in your favorite CAD program.
+
 ##### Cameras
 * GoPro Hero 5/6/7  
   * GoPro Hero 5/6/7 Holder.step
