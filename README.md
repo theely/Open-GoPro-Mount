@@ -22,10 +22,10 @@ If your specific camera model or frame is not yet supported, please [file a requ
 ## How to contribute?
 
 The Open-GoPro-Mount is made of 4 components:
-* GoPro Holder
+* Camera Holder
 * Quad Frame Mount
 * Lens protection
-* GoPro Screen protection
+* Screen protection
 
 
 ### Prorting the Open-GoPro-Mount to a new Quad Frame
