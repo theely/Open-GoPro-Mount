@@ -33,7 +33,7 @@ To port the Open-GoPro-Mount to a new quad frame it's sufficent to design a new 
 Either by adapting an existing mount (e.g. Apex Mount (22.5°).step) or by design a new one from scratch.
 
 #### Requirements
-Each frame mount should include the following joint pice (red part) in order to be compatible with the GoPro Holder.
+Each frame mount should include the following joint pice (red part) in order to be compatible with the Camera Holders.
 
 <img src="https://user-images.githubusercontent.com/2025999/96378812-f34efb80-118e-11eb-8896-4a6d0e611ed2.png" width="400">
 
@@ -54,11 +54,14 @@ Alternative you can access the source design directly from the shared Fusion360 
 
 
 ### Step Files
-* Universal Screen Protection.step
 ##### Cameras
-* GoPro Hero 5/6/7 Mount.step
+* GoPro Hero 5/6/7  
+  * GoPro Hero 5/6/7 Holder.step
+  * GoPro Hero 5/6/7 Lens Protection.step
 ##### Frames
 * Apex Support (22.5°).step
+##### Screen Protection
+* GoPro Screen Protection.step
 
 
 
