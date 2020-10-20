@@ -53,6 +53,8 @@ The Open-GoPro-Mount is made of 4 components:
 To port the Open-GoPro-Mount to a new quad frame it's sufficent to design a new Quad Frame Mount.
 Either by adapting an existing mount (e.g. Apex Mount (22.5°).step) or by design a new one from scratch.
 
+The angle of the overal mount is defined by the Frame Mount, multiple mount angles can be supported by providing additional Quad Frame Mount featuring a set of angles.
+
 #### Requirements
 Each frame mount should include the following joint pice (red part) in order to be compatible with the Camera Holders.
 
@@ -67,7 +69,25 @@ Its important to respect the distance between the two red pieces:
 <img src="https://user-images.githubusercontent.com/2025999/96380984-17f7a300-1190-11eb-8bec-2b530e6b0df1.png" width="400">
 
 ### Adapting the Open-GoPro-Mount for a new Camera
-TBD
+
+To support additional cameras a new Cameras it's sufficent to desing a new Camera Holder. 
+Either by adapting an existing hodler (e.g. GoPro Hero 5/6/7 Holder.step) or by design a new one from scratch.
+
+#### Requirements
+Each camera holder should include the following joint holes in order to be compatible with the Quad Frame Mounts.
+
+<img src="https://user-images.githubusercontent.com/2025999/96549381-b3cc0080-12af-11eb-97fa-e5d5d52479cd.png" width="400">
+
+Distance between the holes are standardised and can not be changes.
+
+<img src="https://user-images.githubusercontent.com/2025999/96549398-b6c6f100-12af-11eb-8299-ac6604b7d02d.png" width="400">
+
+<img src="https://user-images.githubusercontent.com/2025999/96549376-b0d11000-12af-11eb-93ba-03e46be522ce.png" width="400">
+
+The width of the holes does not necesarely be respected as long as there is enought material for the Quad Frame Mounts to join with the Camera Holder.
+
+<img src="https://user-images.githubusercontent.com/2025999/96550661-6e103780-12b1-11eb-8c10-09c576360685.png" width="200"><img src="https://user-images.githubusercontent.com/2025999/96550671-70729180-12b1-11eb-909b-e1cab9a60e39.png" width="200">
+
 
 ## Source File (Designs)
 
