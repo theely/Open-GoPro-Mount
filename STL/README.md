@@ -26,3 +26,7 @@ Note: This part can't be printed without support or the overhang will not print 
 
 * Apex
   * [GoPro Hero 5/6/7 22.5°](./Apex%20-%20ImpulseRC/Apex%2022%C2%B0%20GoPro%20Hero%205:6:7%20Mount.stl)
+  * [GoPro Hero 8 22.5°](./Apex%20-%20ImpulseRC/Apex%20GoPro%20Hero%208%20Mount%2022°.stl)
+  
+* Flow
+  * [GoPro Hero 5/6/7 30°](./Flow%20-%20DemonRC/Flow%2030°%20GoPro%20Hero%205-6-7%20Mount.stl)
