@@ -19,8 +19,8 @@ Note: This part can't be printed without support or the overhang will not print 
 
 ## Parts
 
-### Universal
-* [Screen Protection Plate](./Universal%20Screen%20Protection.stl)
+### Screen Protections
+* [GoPro Screen Protection.stl](./GoPro%20Screen%20Protection.stl)
 
 ### Frames
 
