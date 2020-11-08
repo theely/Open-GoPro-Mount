@@ -111,6 +111,8 @@ Or you can import the shared step files and edit them in your favorite CAD progr
 - GoPro Hero 5/6/7
   - GoPro Hero 5/6/7 Holder.step
   - GoPro Hero 5/6/7 Lens Protection.step
+  - GoPro Hero 8 Holder.step
+  - GoPro Hero 8 Lens Protection.step
 
 ##### Frames
 
