@@ -110,6 +110,7 @@ Or you can import the shared step files and edit them in your favorite CAD progr
 
 - GoPro Hero 5/6/7
   - GoPro Hero 5/6/7 Holder.step
+  - GoPro Hero 5/6/7 Holder Large.step (for wide frame mounts)
   - GoPro Hero 5/6/7 Lens Protection.step
   - GoPro Hero 8 Holder.step
   - GoPro Hero 8 Lens Protection.step
@@ -118,6 +119,7 @@ Or you can import the shared step files and edit them in your favorite CAD progr
 
 - Apex Support (22.5°).step
 - DRC Flow Support (30°).step
+- HyperLow 30x30 Mount (30°).step
 
 ##### Screen Protection
 
