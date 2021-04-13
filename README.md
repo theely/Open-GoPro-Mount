@@ -117,7 +117,7 @@ Or you can import the shared step files and edit them in your favorite CAD progr
 
 ##### Frames
 
-- Apex Support (22.5°).step
+- Apex Support (22.5° and 15°).step
 - DRC Flow Support (30°).step
 - HyperLow 30x30 Mount (30°).step
 
